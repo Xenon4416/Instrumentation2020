@@ -1,0 +1,23 @@
+Range Selection:
+The two calendars are for range selection of data visualization. It allows the date selection only as per the range available in data.
+
+Sample Stats:
+Below of the range selection contains some information about the fetched sample data.
+
+Interval Selection:
+It allows the configuration of data range in the output graphs. Use 10 Minute option for only a single day data evaluation as it uses common mode sampling. Use the intervals based upon the sampling date ranges.
+
+Plot Selection:
+It allows the depiction of the data in three different forms as per the choice.
+
+Sampling mode:
+This is used to select the data view mode of the plots. Unique mode presents data over unique intervals but Common mode presents data merging similar intervals.
+For eg. When Day interval is used in Unique mode, the data is separate for Jan 16 and Feb 16, but the value is summed up in Common mode for Day 16.
+
+DataSet:
+It gives the choice of separate individual plot of entry or exit data, or both in a single common output.
+
+Plot Options:
+The two buttons is single or multiple outputs for comparision.
+Plot: This closes all other plot windows and gives the current output in a single window.
+Add to Plot: This creates a new window for current output.
