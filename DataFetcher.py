@@ -2,7 +2,6 @@ import serial
 import time
 from datetime import datetime
 
-
 try:
     ard = serial.Serial("COM6", 9600, timeout=1)
 except:

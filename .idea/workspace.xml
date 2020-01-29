@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="38fc738a-74ba-4ce5-8a7c-46876ec84d63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataFetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataFetcher.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,12 +55,12 @@
           <entry key="dummy" value="1" />
           <entry key="py" value="10998" />
           <entry key="pyx" value="262" />
-          <entry key="txt" value="1519" />
+          <entry key="txt" value="1542" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1517" />
+          <entry key="PLAIN_TEXT" value="1540" />
           <entry key="Python" value="11588" />
           <entry key="Scratch" value="265" />
         </counts>
@@ -122,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataFetcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -347,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580284923448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished base project">
+      <created>1580302084229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580302084229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -417,7 +423,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added datafetcher" />
-    <option name="LAST_COMMIT_MESSAGE" value="added datafetcher" />
+    <MESSAGE value="finished base project" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished base project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/bluetooth/msbt.py">
@@ -481,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataFetcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
